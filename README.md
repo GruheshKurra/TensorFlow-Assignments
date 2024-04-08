@@ -33,8 +33,3 @@ The TensorFlow in Practice Specialization consists of four courses, each spannin
 - **Week 2:** Deep Neural Networks for Time Series - Using DNNs for time series forecasting.
 - **Week 3:** Recurrent Neural Networks (RNNs) - Understanding and implementing RNNs.
 - **Week 4:** Real-world Time Series Data - Working with real-world time series datasets.
-
-## Installation and Environment Setup
-
-Before running these notebooks, make sure you have all the necessary packages installed. You can install the dependencies using pip:
-
